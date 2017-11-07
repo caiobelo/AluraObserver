@@ -1,0 +1,10 @@
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\bin\Debug\netcoreapp1.1\AluraObserver.deps.json
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\bin\Debug\netcoreapp1.1\AluraObserver.runtimeconfig.json
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\bin\Debug\netcoreapp1.1\AluraObserver.runtimeconfig.dev.json
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\bin\Debug\netcoreapp1.1\AluraObserver.dll
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\bin\Debug\netcoreapp1.1\AluraObserver.pdb
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\obj\Debug\netcoreapp1.1\AluraObserver.csprojResolveAssemblyReference.cache
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\obj\Debug\netcoreapp1.1\AluraObserver.csproj.CoreCompileInputs.cache
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\obj\Debug\netcoreapp1.1\AluraObserver.AssemblyInfo.cs
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\obj\Debug\netcoreapp1.1\AluraObserver.dll
+C:\Users\CAIORUBELO-NOTE\Desktop\AluraObserver\AluraObserver\obj\Debug\netcoreapp1.1\AluraObserver.pdb
